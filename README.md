@@ -1,0 +1,2 @@
+# Newstore
+deploy all data
